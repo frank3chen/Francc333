@@ -1,2 +1,2 @@
 # Sihan-Chen
-Personal Info
+This is a Personal Repo for all coursework and personal projects related.
